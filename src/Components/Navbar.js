@@ -33,7 +33,7 @@ function Navbar() {
     <nav className="navbar-section" data-aos="fade-down">
       <h1 className="navbar-title">
         <Link to="/" title="Nations Hub">
-          Nations Hub
+          National - Quest
         </Link>
       </h1>
       <div className="navbar-container">
